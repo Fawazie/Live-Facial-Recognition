@@ -2,7 +2,7 @@
 
 A Python program designed using DeepFace, a face recognition and facial attribute analysis framework, to analyze real-time video feeds and compares the feed with a pre-provided reference image to identify whether the same individual is detected. The program works by analyzing live video feed frame by frame, detecting a face in each frame, an extracting facial features; it then compares them against an already provided reference image and once a match is found, it triggers the appropriate response.
 
-<img width="638" alt="Screenshot 2024-02-20 at 11 16 10 AM" src="https://github.com/Fawazie/Live-Facial-Recognition/assets/78445573/115bd481-916f-437b-ba2b-e49031f10cfc">
+![image](https://github.com/Fawazie/Live-Facial-Recognition/assets/78445573/3e626ccb-4488-459c-b7f2-a58a1ec80a70)
 
 ## How It's Made:
 
